@@ -5,6 +5,8 @@ This package mainly introduces some pieces of my PhD dissertation. Users can fin
 
 [Wei, Y., Avcı, C., Liu, J., Belezamo, B., Aydın, N., Li, P. T., & Zhou, X. (2017). Dynamic programming-based multi-vehicle longitudinal trajectory optimization with simplified car following models. Transportation research part B: methodological, 106, 102-129.]
 
+## Motivation
+
 While previous studies in the areas of vehicle motion planning have made important contributions in various aspects, it
 is still critically important to develop mathematically rigorous optimization models and computationally tractable algorithms to (1) consider the dynamic effect of vehicle interactions and also (2) reach the full potential of many system-level performance measures such as throughput, capacity, stability and safety. Along this line, this paper aims to address the following theoretical research questions.
 
