@@ -20,5 +20,7 @@ While previous studies in the areas of vehicle motion planning have made importa
 ## Methodology
 
 
-
 ![alt text](https://github.com/caferavci/DPCAV/blob/main/Media/Newell.png)
+
+
+
