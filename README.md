@@ -16,3 +16,9 @@ While previous studies in the areas of vehicle motion planning have made importa
 3. How to design on-line trajectory optimization algorithms to improve the performance of coupled AVs in a platoon, under complex traffic conditions with time-dependent capacity bottlenecks and obstacles of moving trajectories?
 
 [Wei, Y., Avcı, C., Liu, J., Belezamo, B., Aydın, N., Li, P. T., & Zhou, X. (2017). Dynamic programming-based multi-vehicle longitudinal trajectory optimization with simplified car following models. Transportation research part B: methodological, 106, 102-129.]: <https://www.sciencedirect.com/science/article/pii/S0191261517301078?casa_token=-R53IsF9YmoAAAAA:41Azyn3bA7OtX_YR2t5pB7dWDlWtFfJOIJi0FoXDFGep4xvtKKpdt4bhMfrgdpsEENs_DPFSY7s>
+
+## Methodology
+
+
+
+![alt text](https://github.com/caferavci/DPCAV/blob/main/Media/Newell.jpg)
