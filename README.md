@@ -19,8 +19,11 @@ While previous studies in the areas of vehicle motion planning have made importa
 
 ## Methodology
 
+In our research, using the human-driver car following behavior as the baseline, we are interested in how to adopt a linear car following model to approximate the time-continuous AV trajectories while maintaining the minimum safe driving distances. In the original classical paper by Newell, he derived the linear car following model as an approximation of high-order trajectories (through the mean-value theorem), while our focuses below are on how the underlying AV collision-avoidance behavior leads to space-time relationship between a pair of leading and following vehicles, as the collision-avoidance constraint between a pair of vehicles is a building block of the proposed optimization models.
 
 ![alt text](https://github.com/caferavci/DPCAV/blob/main/Media/Newell.png)
 
+By using Newell's foundations on simplified car following models as adapted from his original paper in Fig.1, we can derive the generalized form of car following behaviour for related vehicles in a platoon as follows:
 
+![alt text](https://github.com/caferavci/DPCAV/blob/main/Media/Newell_General_Form.jpg)
 
